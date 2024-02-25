@@ -8,14 +8,6 @@ This project implements a versatile Tic-Tac-Toe game in Java, featuring several 
 - **Human vs. Human**: Allows two players to compete in a traditional game of Tic-Tac-Toe.
 - **Unbeatable AI (Minimax Algorithm)**: An AI player that employs the Minimax algorithm to ensure it never loses.
 
-## Getting Started
-
-To run this game, you'll need to have Java installed on your computer. The game is compiled and run using the Java Development Kit (JDK).
-
-### Prerequisites
-
-- Java Development Kit (JDK), version 8 or higher
-
 ## Quick Insight
 
 
